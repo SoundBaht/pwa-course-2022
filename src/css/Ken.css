@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(76, 250, 120);
+}
+
+.line {
+    width: 500px;
+    height: 20px;
+    background-color: aliceblue;
+}
+
+.line2 {
+    width: 500px;
+    height: 20px;
+    background-color: rgb(0, 136, 255);
+}
